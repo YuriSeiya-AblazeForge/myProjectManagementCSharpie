@@ -1,0 +1,15 @@
+/workspaces/myProjectManagementCSharpie/bin/Debug/net8.0/myProjectManagementCSharpie
+/workspaces/myProjectManagementCSharpie/bin/Debug/net8.0/myProjectManagementCSharpie.deps.json
+/workspaces/myProjectManagementCSharpie/bin/Debug/net8.0/myProjectManagementCSharpie.runtimeconfig.json
+/workspaces/myProjectManagementCSharpie/bin/Debug/net8.0/myProjectManagementCSharpie.dll
+/workspaces/myProjectManagementCSharpie/bin/Debug/net8.0/myProjectManagementCSharpie.pdb
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.AssemblyInfoInputs.cache
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.AssemblyInfo.cs
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.csproj.CoreCompileInputs.cache
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.sourcelink.json
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.dll
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/refint/myProjectManagementCSharpie.dll
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.pdb
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/myProjectManagementCSharpie.genruntimeconfig.cache
+/workspaces/myProjectManagementCSharpie/obj/Debug/net8.0/ref/myProjectManagementCSharpie.dll
